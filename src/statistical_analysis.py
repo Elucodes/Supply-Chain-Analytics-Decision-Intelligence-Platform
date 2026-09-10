@@ -473,7 +473,7 @@ def main():
     except Exception:
         pass
     conn.close()
-    print("✔ Phase 5 results saved to DB and CSV.")
+    print("✔ results saved to DB and CSV.")
 
 if __name__=="__main__":
     main()
