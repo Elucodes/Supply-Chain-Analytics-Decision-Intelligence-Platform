@@ -201,4 +201,4 @@ if __name__ == "__main__":
     p3.inventory_optimization()
     p3.logistics_optimization(vehicle_count=5, max_points=200) 
     p3.close()
-    print("\nPHASE 3 COMPLETE: Inventory + Logistics Optimization (with CO₂) done.")
+    print("\nInventory + Logistics Optimization (with CO₂) done.")
