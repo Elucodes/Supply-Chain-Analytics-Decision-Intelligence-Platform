@@ -646,4 +646,4 @@ if __name__ == "__main__":
 
     # Close DB connection (runs only after IoT loop is stopped manually)
     p.close()
-    print("\nPHASE 1 COMPLETE (pipeline + continuous IoT mode).")
+    print("\nCOMPLETED (pipeline + continuous IoT mode).")
