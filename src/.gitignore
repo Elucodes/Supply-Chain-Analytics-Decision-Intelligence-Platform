@@ -1,4 +1,5 @@
 john/
+venv/
 __pycache__/
 *.pyc
 database/*.db
