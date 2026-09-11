@@ -1,0 +1,4 @@
+john/
+__pycache__/
+*.pyc
+database/*.db
